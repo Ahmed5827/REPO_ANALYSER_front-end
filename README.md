@@ -82,7 +82,17 @@ This front-end relies on the **REPO_ANALYSER backend** for all analysis operatio
  Backend repo : [REPO_ANALYSER](https://github.com/Ahmed5827/REPO_ANALYSER)
 
 ---
+## Interfaces :
+Analysis Forum :
 
+<img width="750" height="623" alt="image" src="https://github.com/user-attachments/assets/93c3cd4c-f042-481a-b4dd-1dba606ff058" />
+
+Analysis Result :
+
+<img width="750" height="680" alt="image" src="https://github.com/user-attachments/assets/ae49106b-f7f5-48a4-aca5-637cca67dcb1" />
+
+
+---
 ## 🤝 Contribution
 
 Contributions are welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
